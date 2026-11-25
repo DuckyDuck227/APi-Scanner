@@ -1,0 +1,7 @@
+// Real obfuscators rename every variable, split strings into arrays, and
+// reference them by computed index - a human (or regex) reading this has no
+// clean "variable = value" pattern to latch onto at all. (No base64 here -
+// that would accidentally be solvable by this scanner's own decoder.)
+var _0x4f2a=[0x73,0x6b,0x5f,0x6c,0x69,0x76,0x65,0x5f,0x39,0x6d,0x4b,0x32,0x70,0x4c,0x37,0x6e];
+(function(_0x1a,_0x2b){var _0x3c=function(_0x4d){while(--_0x4d){_0x1a['push'](_0x1a['shift']());}};_0x3c(++_0x2b);}(_0x4f2a,0x1a2));
+var realKey=_0x4f2a.map(function(_0x5e){return String.fromCharCode(_0x5e);}).join('');
