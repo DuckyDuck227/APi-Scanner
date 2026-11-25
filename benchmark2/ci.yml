@@ -1,0 +1,4 @@
+deploy:
+  env:
+    GITHUB_TOKEN: ghp_4mN7pQ2rS9tV3wX6yZ8aB1cD4eF7gH0jK2mN5p
+    NPM_TOKEN: npm_6rS9tV3wX2yZ8aB1cD4eF7gH0jK2mN5pL7qR3s
