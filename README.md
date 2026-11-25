@@ -55,5 +55,5 @@ against benchmarks of planted secrets, instead of just assuming it works.
 
 ## Changelog
 
-- **2026-11-25** — First working scanner (URL + folder scan modes). Benchmark built. Measured 55% detection rate and documented why.
-- **2026-11-26** — Fixed OpenAI regex, added npm pattern, generic secret check, Shannon entropy filtering, base64 decode-and-recheck, and split-secret heuristic. Reached 100% on the original 11-case benchmark. Built a second, harder 24-case benchmark (67% result, gaps identified) and a third 15-case benchmark of genuinely unsolvable cases (0/15, confirmed as the expected ceiling, not a bug).
+- **2026-11-23** — First working scanner (URL + folder scan modes). Benchmark built. Measured 55% detection rate and documented why.
+- **2026-11-25** — Fixed OpenAI regex, added npm pattern, generic secret check, Shannon entropy filtering, base64 decode-and-recheck, and split-secret heuristic. Reached 100% on the original 11-case benchmark. Built a second, harder 24-case benchmark (67% result, gaps identified) and a third 15-case benchmark of genuinely unsolvable cases (0/15, confirmed as the expected ceiling, not a bug).
