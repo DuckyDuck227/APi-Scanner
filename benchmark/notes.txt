@@ -1,0 +1,5 @@
+Setup notes for the new server.
+
+session_secret = "N7qX2pL9vR4tK8mW1zY6aB3cD5eF0gH2"
+
+Remember to rotate this every 90 days.
